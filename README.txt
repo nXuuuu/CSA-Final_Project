@@ -11,7 +11,7 @@ Installation Instructions
 2.	Ensure Python is installed on your system.
 3.	Navigate to the project folder using the terminal or command prompt.
 Running the Application
-1.	Execute the main.py
+1.	Execute the invoicegenerator.py
 2.	The application will open with the login page.
 Configuration Settings
 •	Ensure the paths for azure.tcl and pyinvoice.docx in the code are correctly set to match the file structure on your system.
